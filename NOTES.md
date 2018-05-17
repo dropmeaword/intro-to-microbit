@@ -1,5 +1,7 @@
 # Talk
 
+![micro:bit](https://cdn.shopify.com/s/files/1/0215/6458/products/microbit-notes_5d79496c-374b-403b-8f41-53d39f201669_580x@2x.png?v=1499953909)
+
 ## Intro to micro:bit
 
 micro:bit is a microcontroller platform designed to teach programming and basic electronics. It has some sensors built-in and some basic input and output (I/O) mechanisms that allow you to start sketching and see results immediately. 
