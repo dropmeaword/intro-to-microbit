@@ -1,7 +1,5 @@
 # Talk
 
-![micro:bit](https://cdn.shopify.com/s/files/1/0215/6458/products/microbit-notes_5d79496c-374b-403b-8f41-53d39f201669_580x@2x.png?v=1499953909)
-
 ## Intro to micro:bit
 
 micro:bit is a microcontroller platform designed to teach programming and basic electronics. It has some sensors built-in and some basic input and output (I/O) mechanisms that allow you to start sketching and see results immediately. 
@@ -11,6 +9,8 @@ The micro:bit educational foundation developed the micro:bit platform in a partn
 The micro:bit is equipped with a matrix of 5x5 LEDs, two programmable buttons, a JST battery connector that will allow you to run your project without USB power, a powerful microcontroller (processor), an accelerometer that measures the unit's motion with respect to the vector of gravity, a compass and a bluetooth module that allows it to talk to other units and back to your computer wirelessly. It's tiny but it does pack a punch of possibilities. So you will not run out the full range of its possibilities in just a few weeks. This is a pretty nice gadget that has not yet been exploited to its full potential.
 
 You can read more about it in the [wikipedia page covering the micro:bit](https://en.wikipedia.org/wiki/Micro_Bit).
+
+![micro:bit](https://cdn.shopify.com/s/files/1/0215/6458/products/microbit-notes_5d79496c-374b-403b-8f41-53d39f201669_580x@2x.png?v=1499953909)
 
 ## Wait a minute! did you say the BBC?
 
