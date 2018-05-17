@@ -113,7 +113,7 @@ for a set amount of time between each of them. Make sure that we can configure t
 Create a program that draws a pixel on the LED array and that lets you move that pixel using the built-in A and B buttons to move the pixel left and right and the P0 and P1 input pins for up and down.
 
 #### Three - inventing your own syntax for Blocks
-Have a goot look at the program that you just created using the visual blocks. What do these blocks represent? What do they mean? Would there be another way of representing the meaning of these blocks? 
+Have a good look at the program that you just created using the visual blocks. What do these blocks represent? What do they mean? Would there be another way of representing the meaning of these blocks? 
 
 Try to write the program you just made using Blocks, in a language that you invent yourself, this language must make sense to you. The only limitation is that your language must be in plain-text, so you should be able to write an equivalent program using the Atom text editor (or whatever plain-text editor you like best).
 
