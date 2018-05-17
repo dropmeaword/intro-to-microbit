@@ -34,7 +34,7 @@ There's nothing "natural" about what computers do, they are an alien species tha
 
 Once you get the hang of it, we can move onto Arduino and the knowledge you have gained by learning the micro:bit will still be useful to you. 
 
-#### This seems like for kids, I suspect I might be above this level of comprehension
+#### Is this for kids? I suspect I might be above this level of comprehension
 
 You might. I know that you are all adult University students, some of you with credit cards and perhaps a love life, and that you are probably more mature than the average 12 year old. But when it comes to learning programming, you are getting started and at this stage you can benefit from this approach too. In fact one could argue that you are at a disadvantage with respect to a 12 year old as your mind is probably more cluttered with preconceptions, busy schedules and knowledge about the world that makes learning new ways of thinking a tad more difficult.
 
